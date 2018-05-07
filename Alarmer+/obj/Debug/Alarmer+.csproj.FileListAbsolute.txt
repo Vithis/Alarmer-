@@ -1,0 +1,9 @@
+c:\users\vilius\documents\visual studio 2015\Projects\Alarmer+\Alarmer+\bin\Debug\Alarmer+.exe.config
+c:\users\vilius\documents\visual studio 2015\Projects\Alarmer+\Alarmer+\bin\Debug\Alarmer+.exe
+c:\users\vilius\documents\visual studio 2015\Projects\Alarmer+\Alarmer+\bin\Debug\Alarmer+.pdb
+c:\users\vilius\documents\visual studio 2015\Projects\Alarmer+\Alarmer+\obj\Debug\Alarmer+.csprojResolveAssemblyReference.cache
+c:\users\vilius\documents\visual studio 2015\Projects\Alarmer+\Alarmer+\obj\Debug\Alarmer_.Form1.resources
+c:\users\vilius\documents\visual studio 2015\Projects\Alarmer+\Alarmer+\obj\Debug\Alarmer_.Properties.Resources.resources
+c:\users\vilius\documents\visual studio 2015\Projects\Alarmer+\Alarmer+\obj\Debug\Alarmer+.csproj.GenerateResource.Cache
+c:\users\vilius\documents\visual studio 2015\Projects\Alarmer+\Alarmer+\obj\Debug\Alarmer+.exe
+c:\users\vilius\documents\visual studio 2015\Projects\Alarmer+\Alarmer+\obj\Debug\Alarmer+.pdb
